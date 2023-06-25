@@ -1,3 +1,6 @@
+## Aula 16 Formação de Professores - GSA Consultoria Educacional - Projeto criado por MARCELO SALDANHA (PROFESSOR)
+
+Este código foi produzido para a aula 16 do curso de formação de professores ofertado pela GSA CONSULTORIA EDUCACIONAL na modalidade remota e com objetivo de abordar diferentes estruturas de programação (variáveis, laços de repetição entre outras) para que, deste modo analisar suas formas de utilização e verificar outras possíveis soluções ao longo da realização da aula e elaboração de outras versões deste projeto. 
 
 > Abrir essa página em [https://marcelofilho97.github.io/aula-16-formacaodeprofessores/](https://marcelofilho97.github.io/aula-16-formacaodeprofessores/)
 
